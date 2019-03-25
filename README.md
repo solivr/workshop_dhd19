@@ -17,7 +17,7 @@ We will also make use of a [Jupyter Notebook](https://jupyter.org/) to get throu
 
 __Images and annotations__
 
-The images used for this workshop are taken from Gallica, the digital library of the Bibliothèque Nationale de France (BnF). 
+The [images](https://github.com/solivr/workshop_dhd19/releases/download/v.0.0/images.zip) used for this workshop are taken from Gallica, the digital library of the Bibliothèque Nationale de France (BnF). 
 They can be found with the following identifiers :
 
 Drop-cap:
@@ -38,3 +38,8 @@ Drop-cap:
 The images can be downloaded in full resolution using the tool [_Pyllica_](https://github.com/Dorialexander/Pyllica).
 
 The groundtruth annotations were produced by BnF's operators.
+
+__Trained model__ 
+
+The weights of the trained model can be downloaded 
+[here](https://github.com/solivr/workshop_dhd19/releases/download/v.0.0/model_ornaments.zip).
