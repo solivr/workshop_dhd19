@@ -28,4 +28,4 @@ The groundtruth annotations were produced by BnF's operators.
 __Trained model__ 
 
 The weights of the trained model can be downloaded 
-[here](https://github.com/solivr/workshop_dhd19/releases/download/v.0.0/model_ornaments.zip).
+[here](https://github.com/solivr/workshop_dhd19/releases/download/v.0.0/model_dropcap.zip).
